@@ -76,6 +76,7 @@
 .rooms-management-form .rooms-current-search__info {
   float: left; /* or right */
   margin-bottom: 20px;
+  background: #ffffff;
 }
 .rooms-current-search__info .form-item,
 .rooms-current-search__actions {
