@@ -1,10 +1,14 @@
 #rooms_booking_button.fixed {
   position: fixed;
-  top: 80px;
+  bottom: 1em;
   z-index: 1;
 }
 .rooms-current-search__info.fixed {
   position: fixed;
-  top: 0;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
   z-index: 1;
+  margin: 0em;
+  padding: 1em;
 }
